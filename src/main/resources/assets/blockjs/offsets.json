@@ -1,0 +1,7189 @@
+{
+ "miniaturia:8exteriors": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:8leaves_b": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:8stackplants": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:awning_dummy": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:barrel": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:barrel_horizontal_0": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:barrel_horizontal_1": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:box_market_l_0": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:box_market_l_1": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:box_market_l_2": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:box_market_l_3": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:box_market_l_4": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:box_market_l_5": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:box_market_l_6": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:cross_nature": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:deco_dummy": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:dresser_chest_0": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:dresser_chest_1": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:dresser_chest_2": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:firewood": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:grandfather_clock": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:model_urn_a": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:model_urn_b": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:oil_drum_horizontal_0": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:oil_drum_horizontal_1": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:ornament_sphere_0": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:ornament_sphere_1": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:planter_half": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:pot": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:pot_b": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:pot_half": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:stackplants_0": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:statue_0": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:step_dummy": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:table_garden_0": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:table_garden_1": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:table_round_a3_0": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:table_round_a3_1": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:table_round_a3_cloth_0": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:table_round_a_0": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:table_round_a_1": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:table_round_a_cloth_0": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:tire_display_0": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:tire_display_1": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:trash_can_0": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:utensils": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:washing_machine": [
+  0.0,
+  0.5,
+  0.0
+ ],
+ "miniaturia:mirror_panel": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:wall_sign_a_wood": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:wall_sign_b_wood": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:wall_sign_c_wood": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:wall_sign_d_wood": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:wall_sign_e_wood": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:wall_sign_f_wood": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:wreath_a": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:wreath_b": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:wreath_bread": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:wreath_c": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_food_a": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_food_b": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_food_c": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_food_d": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_food_e": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_food_f": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_food_g": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_food_h": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_food_i": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_food_j": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:broom": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=1,half=top,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=1,half=top,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=bottom,facing=north": [
+   0.0,
+   -0.5,
+   1.0
+  ],
+  "click=1,half=bottom,facing=east": [
+   -1.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.0,
+   -0.5,
+   -1.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   1.0,
+   -0.5,
+   0.0
+  ]
+ },
+ "miniaturia:cookware_a_bronze": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=1,half=top,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=1,half=top,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=bottom,facing=north": [
+   0.0,
+   -0.5,
+   1.0
+  ],
+  "click=1,half=bottom,facing=east": [
+   -1.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.0,
+   -0.5,
+   -1.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   1.0,
+   -0.5,
+   0.0
+  ]
+ },
+ "miniaturia:cookware_b_bronze": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=1,half=top,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=1,half=top,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=bottom,facing=north": [
+   0.0,
+   -0.5,
+   1.0
+  ],
+  "click=1,half=bottom,facing=east": [
+   -1.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.0,
+   -0.5,
+   -1.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   1.0,
+   -0.5,
+   0.0
+  ]
+ },
+ "miniaturia:cookware_c_bronze": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=1,half=top,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=1,half=top,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=bottom,facing=north": [
+   0.0,
+   -0.5,
+   1.0
+  ],
+  "click=1,half=bottom,facing=east": [
+   -1.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.0,
+   -0.5,
+   -1.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   1.0,
+   -0.5,
+   0.0
+  ]
+ },
+ "miniaturia:cookware_d": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=1,half=top,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=1,half=top,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=bottom,facing=north": [
+   0.0,
+   -0.5,
+   1.0
+  ],
+  "click=1,half=bottom,facing=east": [
+   -1.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.0,
+   -0.5,
+   -1.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   1.0,
+   -0.5,
+   0.0
+  ]
+ },
+ "miniaturia:towel_l": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=1,half=top,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=1,half=top,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=bottom,facing=north": [
+   0.0,
+   -0.5,
+   1.0
+  ],
+  "click=1,half=bottom,facing=east": [
+   -1.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.0,
+   -0.5,
+   -1.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   1.0,
+   -0.5,
+   0.0
+  ]
+ },
+ "miniaturia:towel_s": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=1,half=top,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=1,half=top,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=bottom,facing=north": [
+   0.0,
+   -0.5,
+   1.0
+  ],
+  "click=1,half=bottom,facing=east": [
+   -1.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.0,
+   -0.5,
+   -1.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   1.0,
+   -0.5,
+   0.0
+  ]
+ },
+ "miniaturia:wall_tools_0": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=1,half=top,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=1,half=top,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=bottom,facing=north": [
+   0.0,
+   -0.5,
+   1.0
+  ],
+  "click=1,half=bottom,facing=east": [
+   -1.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.0,
+   -0.5,
+   -1.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   1.0,
+   -0.5,
+   0.0
+  ]
+ },
+ "miniaturia:wall_tools_1": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=1,half=top,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=1,half=top,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,half=bottom,facing=north": [
+   0.0,
+   -0.5,
+   1.0
+  ],
+  "click=1,half=bottom,facing=east": [
+   -1.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.0,
+   -0.5,
+   -1.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   1.0,
+   -0.5,
+   0.0
+  ]
+ },
+ "miniaturia:log_horizontal_birch": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=west": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,half=top,facing=east": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,half=bottom,facing=north": [
+   -0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   0.0,
+   -0.5,
+   0.5
+  ],
+  "click=1,half=bottom,facing=east": [
+   0.0,
+   -0.5,
+   -0.5
+  ]
+ },
+ "miniaturia:log_horizontal_oak": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=west": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,half=top,facing=east": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,half=bottom,facing=north": [
+   -0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   0.0,
+   -0.5,
+   0.5
+  ],
+  "click=1,half=bottom,facing=east": [
+   0.0,
+   -0.5,
+   -0.5
+  ]
+ },
+ "miniaturia:log_horizontal_spruce": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=west": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,half=top,facing=east": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,half=bottom,facing=north": [
+   -0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   0.0,
+   -0.5,
+   0.5
+  ],
+  "click=1,half=bottom,facing=east": [
+   0.0,
+   -0.5,
+   -0.5
+  ]
+ },
+ "miniaturia:table_round_a2_0": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=west": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,half=top,facing=east": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,half=bottom,facing=north": [
+   -0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   0.0,
+   -0.5,
+   0.5
+  ],
+  "click=1,half=bottom,facing=east": [
+   0.0,
+   -0.5,
+   -0.5
+  ]
+ },
+ "miniaturia:table_round_a2_1": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=west": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,half=top,facing=east": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,half=bottom,facing=north": [
+   -0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   0.0,
+   -0.5,
+   0.5
+  ],
+  "click=1,half=bottom,facing=east": [
+   0.0,
+   -0.5,
+   -0.5
+  ]
+ },
+ "miniaturia:table_round_a2_2": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=west": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,half=top,facing=east": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,half=bottom,facing=north": [
+   -0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   0.0,
+   -0.5,
+   0.5
+  ],
+  "click=1,half=bottom,facing=east": [
+   0.0,
+   -0.5,
+   -0.5
+  ]
+ },
+ "miniaturia:table_round_a2_3": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=west": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,half=top,facing=east": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,half=bottom,facing=north": [
+   -0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   0.0,
+   -0.5,
+   0.5
+  ],
+  "click=1,half=bottom,facing=east": [
+   0.0,
+   -0.5,
+   -0.5
+  ]
+ },
+ "miniaturia:table_round_a2_cloth_0": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=west": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,half=top,facing=east": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,half=bottom,facing=north": [
+   -0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   0.0,
+   -0.5,
+   0.5
+  ],
+  "click=1,half=bottom,facing=east": [
+   0.0,
+   -0.5,
+   -0.5
+  ]
+ },
+ "miniaturia:table_round_a2_cloth_1": {
+  "click=0,half=top": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=0,half=bottom": [
+   0.0,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=top,facing=north": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=south": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,half=top,facing=west": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,half=top,facing=east": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,half=bottom,facing=north": [
+   -0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=south": [
+   0.5,
+   -0.5,
+   0.0
+  ],
+  "click=1,half=bottom,facing=west": [
+   0.0,
+   -0.5,
+   0.5
+  ],
+  "click=1,half=bottom,facing=east": [
+   0.0,
+   -0.5,
+   -0.5
+  ]
+ },
+ "miniaturia:wine_glass_rack": {
+  "click=2": [
+   0.0,
+   0.5,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=1,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "click=3,facing=north": [
+   0.0,
+   0.5,
+   1.0
+  ],
+  "click=3,facing=south": [
+   0.0,
+   0.5,
+   -1.0
+  ],
+  "click=3,facing=east": [
+   -1.0,
+   0.5,
+   0.0
+  ],
+  "click=3,facing=west": [
+   1.0,
+   0.5,
+   0.0
+  ]
+ },
+ "miniaturia:car_front_a": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:car_front_b": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:car_front_c": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:dried_herbs_a": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:dried_herbs_b": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:dried_herbs_c": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:dried_herbs_d": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:dried_herbs_e": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:dried_herbs_f": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:faucet_a_gold": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:faucet_a_silver": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:faucet_b_gold": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:faucet_b_oldiron": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:faucet_b_silver": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:gaku": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_sign_a_brown": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_sign_a_wood": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_sign_b_brown": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_sign_b_wood": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_sign_c_brown": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_sign_c_wood": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_sign_d_brown": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_sign_d_wood": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_sign_e_brown": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_sign_e_wood": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_sign_f_brown": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:hanging_sign_f_wood": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:ivy_a": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:ivy_b": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:ivy_c": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:ivy_d": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:ivy_e": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:ivy_f": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:kakejiku_a": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:kakejiku_b": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:ranma_black_a": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:ranma_black_b": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:ranma_brown_a": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:ranma_brown_b": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:shoji_glass_a_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:shoji_glass_b_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:stained_glass_a_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:stained_glass_b_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:stained_glass_c_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:stained_glass_d_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:stained_glass_e_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:stained_glass_f_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:stained_glass_g_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:stained_glass_h_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:wall_clock_large_a": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:wall_clock_large_b": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_a_black_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_a_blue_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_a_gold_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_a_green_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_a_lightblue_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_a_magenta_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_a_mint_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_a_orange_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_a_pink_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_a_purple_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_a_red_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_a_silver_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_a_white_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_a_wood_darkbrown_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_a_wood_lightbrown_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_a_yellow_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_b_black_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_b_blue_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_b_gold_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_b_green_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_b_lightblue_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_b_magenta_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_b_mint_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_b_orange_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_b_pink_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_b_purple_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_b_red_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_b_silver_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_b_white_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_b_wood_darkbrown_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_b_wood_lightbrown_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_b_yellow_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_c_black_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_c_gold_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_c_silver_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_c_white_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_c_wood_darkbrown_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_c_wood_lightbrown_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_d_black_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_d_gold_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_d_silver_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_d_white_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_d_wood_darkbrown_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_d_wood_lightbrown_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_e_brown_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_e_white_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_f_black_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_f_gold_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_f_silver_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_f_white_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_h_silver_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_h_white_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:window_h_wood_pane": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:wrought_iron_pannel_brown": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ },
+ "miniaturia:wrought_iron_pannel_white": {
+  "click=0": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=north": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "click=1,facing=east": [
+   -0.5,
+   0.0,
+   0.0
+  ],
+  "click=1,facing=south": [
+   0.0,
+   0.0,
+   -0.5
+  ],
+  "click=1,facing=west": [
+   0.5,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=north": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "click=2,facing=east": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "click=2,facing=south": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "click=2,facing=west": [
+   1.0,
+   0.0,
+   0.0
+  ]
+ }
+}

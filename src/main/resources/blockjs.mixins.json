@@ -1,0 +1,18 @@
+{
+	"required": true,
+	"minVersion": "0.8.0",
+	"package": "com.akira.blockjs.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"AbstractBlockMixin",
+		"AbstractBlockStateMixin",
+		"BasicBlockJSMixin",
+		"HorizontalDirectionalBlockJSMixin"
+	],
+	"client": [
+		"DebugHudMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

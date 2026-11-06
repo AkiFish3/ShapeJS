@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "blockjs",
+	"version": "${version}",
+	"name": "BlockJS",
+	"description": "给 KubeJS 的 BlockBuilder 追加「按 blockstate 动态分派」能力：dynShape/dynSlope(碰撞·选择盒)、dynLight(亮度)、dynOpacity(遮光)、dynPower(红石)、dynPiston(活塞行为)、dynFootprint(多方块结构)，以及 server 脚本期的运行时改写 API。",
+	"authors": [
+		"AkiFish3"
+	],
+	"contact": {
+		"homepage": "https://space.bilibili.com/3546831095073406",
+		"sources": "https://github.com/AkiFish3/blockjs"
+	},
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.akira.blockjs.BlockJS"
+		],
+		"client": [
+			"com.akira.blockjs.BlockJSClient"
+		]
+	},
+	"mixins": [
+		"blockjs.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"kubejs": "*"
+	}
+}
